@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: #333;
+    background: pink;
     padding: 1rem;
     color: white;
     text-align: center;
@@ -34,8 +34,8 @@ header nav ul li a {
 }
 
 header nav ul li a:hover {
-    color: bisque;
-    transition: all 0.25s ease;
+    color: purple;
+    transition: all 0.4s ease;
 }
 
 section {
